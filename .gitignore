@@ -6,6 +6,7 @@ __pycache__/
 # IDE settings
 .idea/
 *code-workspace
+**/.vscode/
 
 # C extensions
 *.so
